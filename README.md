@@ -23,15 +23,15 @@
 
 
 ### **📌 Pinned Projects**
-- **[WeatherWise - Weather Forecasting App](#)**  
+- **[WeatherWise - Weather Forecasting App]**  
   🌟 Real-time weather data with dynamic backgrounds and trend visualizations.  
   🛠️ Tech Stack: React, OpenWeatherMap API, Bootstrap, Chart.js  
 
-- **[CAPTCHA Recognition System](#)**  
+- **[CAPTCHA Recognition System]**  
   🌟 A deep learning system to accurately recognize text from CAPTCHA images.  
   🛠️ Tech Stack: Python, TensorFlow, CNN-RNN Architecture  
 
-- **[Prediction of Coronary Artery Disease](#)**  
+- **[Prediction of Coronary Artery Disease]**  
   🌟 A system to predict coronary artery disease using chest CT scans.  
   🛠️ Tech Stack: Python, TensorFlow, AI/Deep Learning  
 
