@@ -1,83 +1,41 @@
-# **Hi there 👋, I’m Meghana Arepalli!**
-
-**`Driven Computer Science Student | Aspiring Software Engineer`**
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Meghana+Arepalli!;" />
-</h1>
-
-### **A passionate software engineering student**
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
-</p>
-
-<h2 align="center">Languages and Tools ⚒️ :</h2>
-<br/>
-<div align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</div>
-<br>
-<br/>
-
-<hr/>
+# 💫 About Me:
+I'm a passionate software developer skilled in Python, Java, C, and JavaScript, with hands-on experience in frameworks like React, Three.js, and Tailwind CSS. I excel in creating efficient, scalable, and user-friendly solutions that address real-world challenges. A quick learner and team player, I collaborate effectively to bring innovative ideas to life. Let’s work together to turn your vision into reality!
 
 
-### **📌 Pinned Projects**
-- **[WeatherWise - Weather Forecasting App]**  
-  🌟 Real-time weather data with dynamic backgrounds and trend visualizations.  
-  🛠️ Tech Stack: React, OpenWeatherMap API, Bootstrap, Chart.js  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meghana-arepalli-6a003a25a) 
 
-- **[CAPTCHA Recognition System]**  
-  🌟 A deep learning system to accurately recognize text from CAPTCHA images.  
-  🛠️ Tech Stack: Python, TensorFlow, CNN-RNN Architecture  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-- **[Prediction of Coronary Artery Disease]**  
-  🌟 A system to predict coronary artery disease using chest CT scans.  
-  🛠️ Tech Stack: Python, TensorFlow, AI/Deep Learning  
+## 📌 Recent Projects
+### Awwwards Winning Website
+A responsive web application designed to showcase modern web design principles and best practices. The project emphasizes user experience and aesthetic appeal, making it a standout example of contemporary web development.  
+**Tech Stack:** React, Tailwind CSS, HTML  
 
----
 
-### **🏆 Achievements & Milestones**
-- 🌟 Solved **250+** algorithmic problems on **LeetCode**!
-- 🎉 Completed **Google Cloud Skills Boost** challenges and earned **1900+ points**.
-- 🏅 Earned **Salesforce Developer** badges on **Trailhead**.
-- 👩‍💻 Participated in the **JP Morgan Chase Code for Good Hackathon 2024**.
+### Coronary Artery Disease Prediction
+This project predicts the likelihood of Coronary Artery Disease (CAD) using machine learning models trained on patient data. The system utilizes cleaned datasets and a pre-trained model to assess risks and generate insights.  
+**Tech Stack:** React, REST API, SCSS  
+
+
+### Car Rent
+Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.  
+**Tech Stack:** React, MongoDB, Tailwind CSS  
+
+
+### WeatherWise
+WeatherWise is a web application that provides real-time weather information based on user input or their current location. The app features a visually appealing interface with animated background images, temperature wave graphs, and detailed weather reports.  
+**Tech Stack:** HTML, CSS, JavaScript  
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArepalliMeghana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArepalliMeghana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArepalliMeghana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ArepalliMeghana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### **🌱 What I’m Currently Learning**
-- Cloud-native technologies and advanced AI frameworks.  
-- Developing scalable web applications using modern tech stacks.  
-
----
-
-### **📈 Activity Graph**
-[![Meghana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArepalliMeghana&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ArepalliMeghana)
-
----
-
-### **🤝 Let’s Connect**
-- **LinkedIn**: [Meghana Arepalli](https://www.linkedin.com/in/meghana-arepalli-6a003a25a)  
-- **LeetCode**: [Meghana Arepalli](https://leetcode.com/MEGHANA_AREPALLI/)  
-- **Trailhead**: [Meghana Arepalli](https://www.salesforce.com/trailblazer/meghanaarepalli)  
-- **Email**: [vssmegha@gmail.com](mailto:vssmegha@gmail.com)  
-
----
-
-### **🎉 Fun Facts**
-- 👩‍💻 I’ve solved 250+ algorithmic problems on LeetCode!  
-- 🌟 Passionate about learning new languages and drawing in my free time.  
-
----
-
-
-### **💻 Visitor Counter**
-![](https://komarev.com/ghpvc/?username=ArepalliMeghana&color=blueviolet&style=flat-square)
-
----
-
-### **🚀 Fun Animation**
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
