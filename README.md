@@ -51,5 +51,24 @@ WeatherWise is a web application that provides real-time weather information bas
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArepalliMeghana&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.codechef.com/users/meghanaare" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meghanaare" height="30" width="40" style="background-color: #5C4B51; border-radius: 5px;" />
+  </a>
+  <a href="https://www.hackerrank.com/vssmegha" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vssmegha" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/meghana_arepalli" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meghana_arepalli" height="30" width="40" />
+  </a>
+</p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArepalliMeghana/ArepalliMeghana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArepalliMeghana/ArepalliMeghana/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ArepalliMeghana/ArepalliMeghana/output/github-snake.svg" />
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
