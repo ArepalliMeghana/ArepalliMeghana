@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Meghana.</h2>
 # 💫 
-I'm a passionate software developer skilled in Python, Java, C, and JavaScript, with hands-on experience in frameworks like React, Three.js, and Tailwind CSS. I excel in creating efficient, scalable, and user-friendly solutions that address real-world challenges. A quick learner and team player, I collaborate effectively to bring innovative ideas to life. Let’s work together to turn your vision into reality!
+I'm a passionate software developer skilled in Python, Java, C, and JavaScript, with hands-on experience in frameworks like React. I excel in creating efficient, scalable, and user-friendly solutions that address real-world challenges. A quick learner and team player, I collaborate effectively to bring innovative ideas to life. Let’s work together to turn your vision into reality!
 
 
 
@@ -24,19 +24,11 @@ I'm a passionate software developer skilled in Python, Java, C, and JavaScript, 
 ###
 
 ## 📌 Recent Projects
-### Awwwards Winning Website
-A responsive web application designed to showcase modern web design principles and best practices. The project emphasizes user experience and aesthetic appeal, making it a standout example of contemporary web development.  
-**Tech Stack:** React, Tailwind CSS, HTML  
 
 
 ### Coronary Artery Disease Prediction
 This project predicts the likelihood of Coronary Artery Disease (CAD) using machine learning models trained on patient data. The system utilizes cleaned datasets and a pre-trained model to assess risks and generate insights.  
 **Tech Stack:** React, REST API, SCSS  
-
-
-### Car Rent
-Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.  
-**Tech Stack:** React, MongoDB, Tailwind CSS  
 
 
 ### WeatherWise
@@ -45,7 +37,7 @@ WeatherWise is a web application that provides real-time weather information bas
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArepalliMeghana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArepalliMeghana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArepalliMeghana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
